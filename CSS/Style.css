@@ -12,6 +12,7 @@ body{
     text-align: center;
     /* align items is verticial */  
     align-items: center;
+
 }
 header{
     display: flex; 
@@ -38,5 +39,12 @@ header{
 
 }
 nav{
+    text-decoration: none;
+    background-color:black;
+    color: var(--garden-green);
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+
     
 }
