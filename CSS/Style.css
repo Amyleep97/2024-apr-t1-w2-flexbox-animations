@@ -41,11 +41,29 @@ header{
 }
 nav{
     text-decoration: none;
-    background-color:black;
+    background-color:rgb(44, 48, 47);
     color: var(--garden-green);
     padding: 0.5rem;
-    margin-left: 0.5rem;
+    margin-left: 1rem;
     margin-right: 0.5rem;
-
-    
+    border-radius: 10%;
 }
+nav{
+    display: flex;
+    gap: 15px;
+}
+
+.training-option {
+    margin-top: 10dvw;
+    background-color: #333433;
+    padding: 1rem;
+    border-radius: 3%;
+
+}
+.training-option img {
+    width: 50dvw;
+    border-radius: 3%;
+
+
+}
+
