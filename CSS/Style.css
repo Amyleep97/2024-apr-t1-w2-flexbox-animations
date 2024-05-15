@@ -1,0 +1,15 @@
+*{
+    --garden-green:#2A6041;
+    color: rgb(225, 214, 214);
+}
+body{
+    background-color:var(--garden-green);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex; 
+    flex-direction: column;
+    /* text align is horizontal */
+    text-align: center;
+    /* align items is verticial */  
+    align-items: center;
+}
+
