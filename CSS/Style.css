@@ -54,14 +54,14 @@ nav{
 }
 
 .training-option {
-    margin-top: 10dvw;
+    margin-top: 5dvw;
     background-color: #333433;
     padding: 1rem;
-    border-radius: 3%;
+    border-radius: 7%;
 
 }
 .training-option img {
-    width: 50dvw;
+    width: 30dvw;
     border-radius: 3%;
 
 
